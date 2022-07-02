@@ -1,0 +1,4 @@
+name: NekoCosmetics
+version: 1.0-beta
+authors: [Kambet, James_TheMan, _Novit_, Galaxy773]
+main: me.nekocloud.lobby.cosmetics.CosmeticPlugin

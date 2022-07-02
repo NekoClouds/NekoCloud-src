@@ -1,0 +1,6 @@
+name: Anarchy
+author: _Novit_
+version: 1.0
+main: me.nekocloud.anarchy.Anarchy
+api: 1.16
+depend: [Market, NekoAPI, CommonsSurvival, WorldGuard]

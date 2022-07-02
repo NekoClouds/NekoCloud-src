@@ -1,0 +1,5 @@
+name: SurvivalJobs
+main: me.nekocloud.games.jobs.Jobs
+version: 1.0
+author: Galaxy773
+depend: [NekoAPI, CommonsSurvival, Market]

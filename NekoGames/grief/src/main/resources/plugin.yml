@@ -1,0 +1,6 @@
+name: Grief
+main: me.nekocloud.grief.Grief
+version: 1.0
+author: _Novit_
+api: 1.16
+depend: [NekoAPI, Market, CommonsSurvival]

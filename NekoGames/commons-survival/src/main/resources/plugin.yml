@@ -1,0 +1,8 @@
+name: CommonsSurvival
+main: me.nekocloud.survival.commons.CommonsSurvival
+version: 1.0
+author: _Novit_
+api-version: 1.18
+
+depend: [NekoAPI]
+softdepend: [Multiverse-Core]

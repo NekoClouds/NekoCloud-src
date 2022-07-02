@@ -1,0 +1,5 @@
+name: CreativeAddon
+version: 1.0
+author: _Novit_
+main: me.nekocloud.creative.CreativeAddon
+depend: [DartaAPI]

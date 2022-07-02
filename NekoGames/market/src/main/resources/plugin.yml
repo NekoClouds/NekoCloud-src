@@ -1,0 +1,5 @@
+name: Market
+author: _Novit_
+main: me.nekocloud.market.Market
+version: 1.0
+depend: [NekoAPI]

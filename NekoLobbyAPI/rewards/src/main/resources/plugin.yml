@@ -1,0 +1,5 @@
+name: Rewards
+version: 1.0
+api-version: 1.13
+main: me.nekocloud.lobby.rewards.Rewards
+authors: [Phizzle]

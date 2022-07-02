@@ -1,0 +1,25 @@
+# Если какая-либо функция не нужна, смело можно стереть её из конфига.
+miner:
+  world: spawn
+  npc_location: spawn;-374.5;86;1149.5;0;-90
+  top_location: spawn;-364.5;89.35;1149.5
+  min_location: spawn;-380;83;1160
+  max_location: spawn;-360;98;1141
+  prices:
+    '129': 4
+    '56': 3
+    '14': 3
+    '15': 2
+    '16': 2
+    '21': 1
+    '74': 1
+
+woodcutter:
+  world: spawn
+  npc_location: spawn;-387.5;88;1253.5;0;90
+  top_location: spawn;-393.5;91.35;1253.5
+  min_location: spawn;-394;88;1252
+  max_location: spawn;-376;98;1282
+  wood_reward: 1
+  tree_health: 1
+  tree_cooldown: 10

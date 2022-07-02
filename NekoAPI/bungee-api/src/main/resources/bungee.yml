@@ -1,0 +1,6 @@
+name: NekoBungeeAPI
+main: pw.novit.nekocloud.bungee.NekoBungeeAPI
+author: _Novit_
+website: github.com/novitpw
+
+version: 2.0

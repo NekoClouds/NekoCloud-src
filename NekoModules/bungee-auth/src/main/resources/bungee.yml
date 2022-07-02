@@ -1,0 +1,5 @@
+name: BungeeAuth
+main: me.nekocloud.auth.BungeeAuth
+version: 1.0-beta
+author: _Novit_
+depend: [NekoBungeeAPI, BungeeConnector]

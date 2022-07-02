@@ -1,0 +1,4 @@
+name: CoreChat
+main: me.nekocloud.chat.bukkit.BukkitCoreChat
+author: _Novit_
+depend: [NekoAPI, BukkitConnector]

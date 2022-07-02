@@ -1,0 +1,5 @@
+name: HubBoard
+version: 1.0
+author: _Novit_
+main: me.nekocloud.hub.HubBoard
+depend: [LobbyAPI, BukkitConnector]

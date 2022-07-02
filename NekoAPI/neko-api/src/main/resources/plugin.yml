@@ -1,0 +1,8 @@
+name: NekoAPI
+main: me.nekocloud.nekoapi.loader.NekoAPI
+version: 2.0
+author: _Novit_
+api-version: 1.16
+
+load: STARTUP
+depend: [ViaVersion, ProtocolLib, BukkitConnector]

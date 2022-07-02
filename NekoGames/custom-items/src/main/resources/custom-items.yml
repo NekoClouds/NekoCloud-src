@@ -1,0 +1,24 @@
+items:
+  disable-worlds:
+    - 'test123'
+
+  axe:
+    type: THROW_AXE
+    id: IRON_AXE
+    name: '§e§lМетательный топор §aI'
+    damage: 8
+    lore:
+      - ''
+      - ' §8▪ §fОсобые эффекты: §cнет'
+      - ''
+      - '§a▸ §a§lНажмите ПКМ§7, чтобы метнуть'
+  fire_axe:
+    type: THROW_AXE
+    id: DIAMOND_AXE
+    name: '§b§lМетательный топор §aII'
+    damage: 10
+    lore:
+      - ''
+      - ' §8▪ §fОсобые эффекты: §6огонь'
+      - ''
+      - '§a▸ §a§lНажмите ПКМ§7, чтобы метнуть'

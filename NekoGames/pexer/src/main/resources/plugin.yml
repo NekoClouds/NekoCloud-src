@@ -1,0 +1,6 @@
+name: NekoPexer
+main: me.nekocloud.pexer.NekoPexer
+version: 1.0
+author: _Novit_
+depend: [NekoAPI]
+softdepend: [LuckPerms, PermissionsEx]

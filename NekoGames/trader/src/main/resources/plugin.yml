@@ -1,0 +1,5 @@
+name: Trader
+main: me.nekocloud.games.trader.Trader
+version: 1.0-beta
+author: Galaxy773
+depend: [NekoAPI, Market]

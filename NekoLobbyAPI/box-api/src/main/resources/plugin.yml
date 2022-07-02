@@ -1,0 +1,5 @@
+name: BoxAPI
+version: 1.1
+author: _Novit_
+main: me.nekocloud.box.BoxPlugin
+depend: [NekoAPI]

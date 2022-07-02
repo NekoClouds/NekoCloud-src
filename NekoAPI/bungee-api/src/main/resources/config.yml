@@ -1,0 +1,21 @@
+motd:
+- '§5§lNEKO§f§lCLOUD §8∭§r §fСАМЫЙ §l§dКОШАЧИЙ §fСЕРВЕР! '
+- '§d§l↪§r §f§lГЛОБАЛЬНОЕ §d§lОБНОВЛЕНИЕ §fИ §d§lНОВЫЙ РЕЖИМ!'
+motd_hex:
+- '<gradient:#FF3399:#FFFFFF> §lNEKOCLOUD §8∭§r §fСАМЫЙ §l§dКОШАЧИЙ §fСЕРВЕР! '
+- '§d§l↪§r <gradient:#2880D8:#AC73CF:#EE68A4>§lГЛОБАЛЬНОЕ ОБНОВЛЕНИЕ И НОВЫЙ РЕЖИМ!'
+
+booster:
+  enable: true
+  boost: 1.7
+# Фейковое изменение макс. онлайна
+# Если включено, то общ. онлайн + 1 к максимальному. (16/17, 17/18 и т.д) - работает с бустером и без него.
+justOneMore: true
+
+protection: #нихуя
+  - _Novit_;zachita.novit.pw
+  - hepller;zachita.novit.pw
+  - Muskulov;zachita.novit.pw
+  - llonnections;zachita.novit.pw
+  - dotmix;zachita.novit.pw
+  - xan1keo;zachita.novit.pw

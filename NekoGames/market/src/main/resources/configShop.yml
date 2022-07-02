@@ -1,0 +1,6 @@
+auctionLocation: spawn;0;0;0
+database: 'skyblock'
+
+limitDefault: 10
+limits: #лимиты кол-во айтемов
+- 'gold:1'

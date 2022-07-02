@@ -1,0 +1,4 @@
+name: AntiPidor
+main: me.nekocloud.rofl.AntiPidor
+version: 228
+depend: [NekoAPI]

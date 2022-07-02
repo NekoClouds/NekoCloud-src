@@ -1,0 +1,5 @@
+name: BetterSurvival
+main: me.nekocloud.bettersurvival.BetterSurvival
+version: 1.0
+author: _Novit_
+depend: [DartaAPI, Alternate]

@@ -1,0 +1,19 @@
+whitelist:
+  ENABLE: false
+  HOVER:
+  - '    §8§l⎰  §5§lNEKO§f§lCLOUD§r  §8§l⎱'
+  - ' '
+  - §5⚠ §dНа сервере ведутся тех. работы §5⚠
+  - '§7Следите за новостями в нашей группе вк:'
+  - §dvk.com/nekocloud
+  - ' '
+  - '    §8§l⎱  §5§lNEKO§f§lCLOUD§r  §8§l⎰'
+  MOTD:
+  - '§5§lNEKO§f§lCLOUD §8∭§r §fСАМЫЙ §l§dКОШАЧИЙ §fСЕРВЕР! '
+  - '§d§l⚠§r §d§lСЕРВЕР НА ТЕХНИЧЕСКИХ РАБОТАХ!'
+  PLAYERS:
+  - _novit_
+  - llonnections
+  - xakin
+  - nezukoco
+  - hepller

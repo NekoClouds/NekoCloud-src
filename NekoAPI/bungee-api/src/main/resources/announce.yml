@@ -1,0 +1,25 @@
+# Доступные акшионы:
+# OPEN_URL, OPEN_FILE, RUN_COMMAND, SUGGEST_COMMAND, COPY_TO_CLIPBOARD;
+
+announcer_period: 1 #в минутах
+announcer:
+# гитхаб разработчика
+  ANNOUNCER_GIT_MESSAGE: # Имя секции = ключ локализации + будет ANNOUNCER_GIT_MESSAGE_HOVER для ховера
+    click:
+      action: OPEN_URL
+      context: 'https://github.com/novitpw'
+
+# мы оч крутые
+  ANNOUNCER_COOL_MESSAGE: # Это если не нужен акшион. Ховер в таком случае не нужен, он не отобразится
+
+# я дебошир мне похуй
+  ANNOUNCER_CRASH_COMMAND_MESSAGE:
+    click:
+      action: RUN_COMMAND
+      context: '/crash'
+
+# скопируй ссылку
+  ANNOUNCER_IP_COPY_MESSAGE:
+    click:
+      action: COPY_TO_CLIPBOARD
+      context: 'https://github.com/novitpw'
